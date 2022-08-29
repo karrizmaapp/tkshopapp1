@@ -1,16 +1,16 @@
 {
 
-	"admob_banner":"ca-app-pub-1104048893896770/4607588873",
-	"admob_inter":"ca-app-pub-1104048893896770/3294507206",
+	"admob_banner":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
 
-	"APP_KEY": "160e6440d",
+	"APP_KEY": "163f6cda5",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"APPLOVIN_BANNER": "697e9473547867cf",
 	"APPLOVIN_INTERSTITIAL": "5737fcc9649cc9cd",
 
-	"whichAds": 1,
+	"whichAds": 0,
 	
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -21,7 +21,7 @@
 	"BUTTON_NAME_1": "Start",
 	"BUTTON_NAME_2": "Shop Now",
 
-	"URL" : "https://www.tkmaxx.com/",
+	"URL" : "https://www.primark.com/",
 
 	"isAdsActivated1":true,
 	"isAdsActivated2":true
